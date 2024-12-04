@@ -50,7 +50,7 @@ const Messages = () => {
         <Wrapper>
           <HeaderContent>
             <div>
-              <Username>Hi James,</Username>
+              <Username>Hi Sounder Narayan Samy,</Username>
               <Text>here’s your currently messages</Text>
             </div>
           </HeaderContent>

@@ -50,7 +50,7 @@ const Schedule = () => {
         <Wrapper>
           <HeaderContent>
             <div>
-              <Username>Hi James,</Username>
+              <Username>Hi Sounder Narayana Samy,</Username>
               <Text>here’s your currently schedule</Text>
             </div>
           </HeaderContent>

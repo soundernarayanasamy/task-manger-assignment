@@ -19,6 +19,7 @@
     "@babel/preset-env": "^7.7.1",
     "@babel/preset-react": "^7.7.0",
     "@babel/preset-typescript": "^7.7.0",
+    "@webpack-cli/serve": "^2.0.5",
     "babel-loader": "^8.0.6",
     "babel-plugin-styled-components": "^1.10.6",
     "cross-env": "^7.0.0",
@@ -31,10 +32,10 @@
     "tslint": "^5.20.1",
     "tslint-immutable": "^6.0.1",
     "typescript": "^3.7.2",
-    "webpack": "^4.41.2",
+    "webpack": "^5.97.0",
     "webpack-bundle-analyzer": "^4.6.1",
-    "webpack-cli": "^3.3.12",
-    "webpack-dev-server": "^4.11.1"
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.2"
   },
   "dependencies": {
     "@types/react": "^16.9.11",

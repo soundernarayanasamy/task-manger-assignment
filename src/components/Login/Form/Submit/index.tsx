@@ -145,7 +145,7 @@ const Sumbit: React.FC<IFormSubmitProps> = props => {
       <Wrapper>
         <InputText
           type='text'
-          placeholder='Your login'
+          placeholder='Type admin'
           name='login'
           onChange={handleChange}
           value={user.login}
@@ -155,7 +155,7 @@ const Sumbit: React.FC<IFormSubmitProps> = props => {
       <Wrapper>
         <InputText
           type='password'
-          placeholder='Your password'
+          placeholder='Type admin'
           name='password'
           onChange={handleChange}
           value={user.password}

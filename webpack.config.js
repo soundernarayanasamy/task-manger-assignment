@@ -74,9 +74,11 @@ module.exports = {
     ]
   },
   devServer: {
-    contentBase: path.join(__dirname, 'dist'),
-    historyApiFallback: true,
-    publicPath: '/'
+    static: {
+      directory: path.join(__dirname, 'dist'),  // Serve from the 'dist' folder
+    },
+    hot: true,
+    open: true,
   },
   plugins: [
     new Dotenv({
